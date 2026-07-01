@@ -7,6 +7,7 @@ import Recognition from "@/components/Recognition";
 import Work from "@/components/Work";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import ChatWidget from "@/components/ChatWidget";
 import { profile } from "@/lib/content";
 
 const personJsonLd = {
@@ -55,6 +56,7 @@ export default function Home() {
         <Contact />
       </main>
       <Footer />
+      <ChatWidget />
     </>
   );
 }

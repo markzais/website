@@ -19,7 +19,7 @@ export default function Journey() {
         <SectionHeading
           index="02"
           eyebrow="Career Journey"
-          title="Two decades from the cockpit to the C-suite."
+          title="Two decades from the cockpit to the boardroom."
           description="A path through military aviation, doctoral research, national defense policy, and enterprise analytics leadership — each chapter compounding technical depth with executive influence."
         />
 

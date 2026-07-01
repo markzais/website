@@ -260,7 +260,10 @@ export const education = [
 ];
 
 export const credentials = [
-  "PhD, Operations Research — CU Boulder",
+  "PhD, Business Administration (Operations Research) — CU Boulder, Leeds School of Business",
+  "MS, Operations Research — Georgia Tech",
+  "MS, Industrial Engineering — Georgia Tech",
+  "BS, Operations Research — West Point",
   "Certified Analytics Professional — Expert (CAP-X)",
   "Active TS-SCI Security Clearance",
   "U.S. Army Veteran (Colonel)",
