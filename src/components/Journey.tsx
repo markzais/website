@@ -1,5 +1,6 @@
 import SectionHeading from "./SectionHeading";
 import Reveal from "./Reveal";
+import JourneyPhotos from "./JourneyPhotos";
 import { experience } from "@/lib/content";
 
 const tagColor: Record<string, string> = {
@@ -86,6 +87,10 @@ export default function Journey() {
                             </li>
                           ))}
                         </ul>
+                      )}
+
+                      {role.images && role.images.length > 0 && (
+                        <JourneyPhotos images={role.images} alignEnd={i % 2 === 0} />
                       )}
                     </div>
                   </div>

@@ -111,6 +111,7 @@ export type Role = {
   context: string;
   points: string[];
   tag: string;
+  images?: { src: string; alt: string }[];
 };
 
 export const experience: Role[] = [
@@ -237,6 +238,10 @@ export const experience: Role[] = [
       "Commanded a company of 31 personnel and 8 AH-64D Longbow Apache helicopters with associated equipment valued at over $250 million.",
     ],
     tag: "Military",
+    images: [
+      { src: "/images/cockpit_1.jpg", alt: "Mark Zais in the cockpit of an AH-64D Apache Longbow" },
+      { src: "/images/cockpit_2.jpg", alt: "Mark Zais in flight gear in an AH-64D Apache cockpit" },
+    ],
   },
 ];
 
