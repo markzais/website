@@ -96,7 +96,7 @@ export const skills = [
   "SAS",
   "MATLAB",
   "Power BI",
-  "Apache Spark",
+  "AI Coding",
   "Databricks",
   "AWS",
   "LaTeX",
@@ -277,15 +277,15 @@ export const credentials = [
 ];
 
 export const awards = [
-  "Dr. Wilber B. Payne Award for Excellence in Analysis",
+  "Dr. Wilbur B. Payne Award for Excellence in Analysis – Most significant and far-reaching analysis effort across the Department of the Army",
   "CJCS National Defense & Military Strategy Essay Competition — First Place",
-  "Davis Rist Prize (Runner-Up)",
+  "Davis Rist Prize (Runner-Up) – Best implemented military operations research study",
 ];
 
 export const publications = [
   "A Simulation-Optimization Approach to Estimate Workforce Requirements",
-  "Big Data for Generals… and Everyone Else over 40",
+  "Next-Gen Instructional Design: AI’s Revolution in Transforming Virtual Training Development",
   "A Markov Chain Model of Military Personnel Dynamics",
   "Optimizing Simulation Fidelity for Cost-Effective Aviation Training",
-  "Artificial Intelligence: A Decisionmaking Technology",
+  "A Graph Coloring Approach to the Deployment Scheduling and Unit Assignment Problem",
 ];
